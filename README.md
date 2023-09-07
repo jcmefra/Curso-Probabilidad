@@ -1,6 +1,6 @@
 # Apuntes del Curso: Matemáticas para Data Science - Probabilidad
 
-Este repositorio contiene mis apuntes del curso "Matemáticas para Data Science: Probabilidad". En este curso, exploramos los fundamentos de la probabilidad y su aplicación en Machine Learning y Data Science. Aprenderemos a estimar parámetros de distribuciones, comprender los tipos de probabilidad y su relevancia en Machine Learning.
+Este repositorio contiene mis apuntes del curso "Matemáticas para Data Science: Probabilidad" de Platzi. En este curso, exploramos los fundamentos de la probabilidad y su aplicación en Machine Learning y Data Science. Aprenderemos a estimar parámetros de distribuciones, comprender los tipos de probabilidad y su relevancia en Machine Learning.
 
 ## Descripción del Curso
 
