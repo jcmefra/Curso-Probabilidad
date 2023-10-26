@@ -49,3 +49,4 @@ Este repositorio contiene mis apuntes del curso "Matemáticas para Data Science:
 ## Contacto
 
 ¡Espero que estos apuntes te sean de gran ayuda en tu aprendizaje de probabilidad para Data Science!
+# Curso-Probabilidad
