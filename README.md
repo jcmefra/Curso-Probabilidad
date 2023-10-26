@@ -46,6 +46,4 @@ Este repositorio contiene mis apuntes del curso "Matemáticas para Data Science:
 2. Siéntete libre de clonar este repositorio o descargar los archivos que necesites para tus estudios.
 3. Si tienes preguntas o comentarios sobre el contenido, no dudes en abrir un problema o enviar una solicitud de extracción.
 
-## Contacto
-
 ¡Espero que estos apuntes te sean de gran ayuda en tu aprendizaje de probabilidad para Data Science!
